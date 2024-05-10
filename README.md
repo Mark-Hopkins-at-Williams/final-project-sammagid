@@ -1,10 +1,9 @@
 # CSCI 381 Final Project
 
 Group members:
-- please list your
-- group members
-- here!
+- Sam Magid
+- Matt Laws
 
-Also, add any files to this repository that you would need as part of your final project submission.
+Link to our final project repo: [https://github.com/mlaws21/Yolo-Basic](https://github.com/mlaws21/Yolo-Basic)
 
-Finally, put any special instructions in this README about how to use your code/notebook.
+Following along with our notebook, you should be able to implement our *Yolo-Basic* model.
